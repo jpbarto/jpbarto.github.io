@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Jason Barto"
 title_separator          : "-"
 name                     : "Jason Barto"
-description              : "Home of"
+description              : "Personal homepage"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jpbarto/jpbarto.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "jason_barto"
 facebook:
   username               :
   app_id                 :
