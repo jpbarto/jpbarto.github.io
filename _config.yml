@@ -80,8 +80,8 @@ author:
   name             : "Jason Barto"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Budding developer, aspiring hacker"
-  location         : "Second star to the right"
-  email            :
+  location         : "London, England"
+  email            : "Jason.P.Barto@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,18 +89,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/jpbarto"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jasonbarto"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/jason_barto"
   vine             :
   weibo            :
   xing             :
