@@ -81,7 +81,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Budding developer, aspiring hacker"
   location         : "London, England"
-  email            : "Jason.P.Barto@gmail.com"
+  email            : "Jason.P.Barto via gmail"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,18 +89,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jpbarto"
+  github           : "jpbarto"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jasonbarto"
+  linkedin         : "jasonbarto"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/jason_barto"
+  twitter          : "jason_barto"
   vine             :
   weibo            :
   xing             :
