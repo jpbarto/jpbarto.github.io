@@ -1,11 +1,7 @@
 ---
-id: 22
 title: A Redis API for Haskell
-date: 2015-03-05T22:58:14+00:00
-author: Jason Barto
 layout: single
-guid: https://www.r9labs.org/?p=22
-permalink: /using-redis-from-haskell/
+published: true
 categories:
   - Languages
   - Technical

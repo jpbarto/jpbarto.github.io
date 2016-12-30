@@ -1,11 +1,7 @@
 ---
-id: 4
 title: Using Nginx to build a site of sites
-date: 2015-03-30T21:29:04+00:00
-author: Jason Barto
 layout: single
-guid: https://www.r9labs.org/?p=4
-permalink: /using-nginx-to-build-a-site-of-sites/
+published: true
 categories:
   - Software
   - Technical

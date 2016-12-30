@@ -1,11 +1,7 @@
 ---
-id: 14
 title: Authenticate your services with Google, NGINX, and OAuth2
-date: 2015-05-18T22:45:15+00:00
-author: Jason Barto
 layout: single
-guid: https://www.r9labs.org/?p=14
-permalink: /authenticate-your-services-with-google-nginx-and-oauth2/
+published: true
 categories:
   - Technical
   - Technology
