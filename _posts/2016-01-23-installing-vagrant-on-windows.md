@@ -1,7 +1,7 @@
 ---
 layout: single
 status: publish
-published: true
+published: false
 title: Installing Vagrant on Windows
 author:
   display_name: Jason Barto

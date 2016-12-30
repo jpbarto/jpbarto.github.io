@@ -1,7 +1,7 @@
 ---
 layout: single
 status: publish
-published: true
+published: false
 title: Authenticate your services with Google, NGINX, and OAuth2
 author:
   display_name: Jason Barto

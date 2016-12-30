@@ -1,7 +1,7 @@
 ---
 layout: single
 status: publish
-published: true
+published: false
 title: A Redis API for Haskell
 author:
   display_name: Jason Barto

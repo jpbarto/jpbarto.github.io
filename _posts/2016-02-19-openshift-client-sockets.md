@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 status: publish
 published: true
 title: OpenShift Client Sockets
