@@ -1,11 +1,7 @@
 ---
-id: 107
 title: OpenShift Client Sockets
-date: 2016-02-19T14:11:23+00:00
-author: Jason Barto
 layout: single
-guid: https://www.r9labs.org/?p=107
-permalink: /openshift-client-sockets/
+published: true
 categories:
   - Technical
   - Technology

@@ -1,11 +1,7 @@
 ---
-id: 91
 title: Enabling additional transport connectors in RedHat Fuse 6.2
-date: 2015-09-13T13:18:12+00:00
-author: Jason Barto
 layout: single
-guid: https://www.r9labs.org/?p=91
-permalink: /enabling-additional-transport-connectors-in-redhat-fuse-6-2/
+published: true
 categories:
   - Technical
   - Technology

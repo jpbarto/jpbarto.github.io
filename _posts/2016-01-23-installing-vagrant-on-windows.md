@@ -1,11 +1,7 @@
 ---
-id: 190
 title: Installing Vagrant on Windows
-date: 2016-01-23T23:30:54+00:00
-author: Jason Barto
 layout: single
-guid: https://jasonbarto.com/?p=190
-permalink: /installing-vagrant-on-windows/
+published: true
 categories:
   - Technical
   - Technology
