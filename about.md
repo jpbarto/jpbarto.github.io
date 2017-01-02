@@ -1,6 +1,7 @@
 ---
 title: About
 layout: single
+author_profile: true
 header:
   overlay_image: /assets/images/cropped-swirling-stars_half-920x250.jpeg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
