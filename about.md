@@ -1,6 +1,9 @@
 ---
 title: About
 layout: single
+header:
+  overlay_image: /assets/images/cropped-swirling-stars_half-920x250.jpeg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 Jason Barto is a man
 
